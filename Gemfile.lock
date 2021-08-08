@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    digest (3.0.0)
+    pcaprub (0.13.0)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  digest
+  pcaprub
+
+BUNDLED WITH
+   2.2.25
